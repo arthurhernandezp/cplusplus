@@ -6,4 +6,4 @@ https://cmake.org
 
 Code::Blocks com MINGW
 
-codeblocks-20.03mingw
+[codeblocks-20.03mingw](https://www.codeblocks.org/downloads/binaries/)
